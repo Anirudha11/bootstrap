@@ -1,0 +1,35 @@
+@import 'custom';
+@import '~bootstrap/scss/bootstrap';
+.bg-dark{
+	opacity:0.7;
+}
+.dropdrown-item{
+	background-color:#ccc;
+}
+.abc{
+	color:inherit;
+}
+
+.jumbotron button{
+	color:	#0000FF;
+}
+
+
+footer{
+	background-color:#222;
+	color:grey;
+}
+.card {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+        position:relative;
+        overflow:hidden;
+}
+.card-img-top:hover{
+	transform: scale(1.2);
+}
+#what-we-do
+	{
+	background:rgba(0,0,0,0.5);
+	}
